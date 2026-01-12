@@ -1,3 +1,22 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>page2.html</title>
+</head>
+
+<body>
+	<h2> My Apps </h2>
+	<center>
+	<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/wogisXZKGkpFgVNjRZ7_b1KF1W9vdm2etHPm1wyYUT2/embed?nosource">
+	</iframe>
+	<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/Boc5eWlD_7moARkJBbbzVcYU0NClFl09w9e4TlkvDAs/embed?nosource"></iframe>
+		<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/CnWGaZ-ArElyhy5664XP-I_8OCsTO3lN9fYzph4_SPn/embed?nosource"></iframe>
+	</center>
+</body>
+</html>
+
+
 ul {
   list-style-type: none;
   margin: 0;
